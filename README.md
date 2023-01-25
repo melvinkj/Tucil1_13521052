@@ -1,7 +1,7 @@
 # Tucil1_13521052
 
 
-##Deskripsi Program
+## Deskripsi Program
 
 Program ini merupakan pencari solusi dari permainan kartu 24 yang ditulis dalam bahasa pemrogramana C++. Algoritma yang digunakan dalam mencari seluruh solusi yang ada adalah algoritma Brute Force. 
 
@@ -16,5 +16,5 @@ Program akan menghitung jumlah operasi yang memungkinkan dari 4 kartu (angka/sim
 5. Setelah jumlah solusi dan solusi ditampilkan, pengguna dapat memilih untuk menyimpan solusi dengan memasukan nama file dengan format .txt yang diinginkan. Contoh: output.txt
 
 
-##Author
+## Author
 Melvin Kent Jonathan - 13521052
